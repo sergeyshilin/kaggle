@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-common-5.4.1">
+    <CLASSES>
+      <root url="jar:///usr/local/share/lucene-5.4.1/analysis/common/lucene-analyzers-common-5.4.1.jar!/" />
+      <root url="jar:///usr/local/share/lucene-5.4.1/core/lucene-core-5.4.1.jar!/" />
+      <root url="jar:///usr/local/share/lucene-5.4.1/demo/lucene-demo-5.4.1.jar!/" />
+      <root url="jar:///usr/local/share/lucene-5.4.1/queryparser/lucene-queryparser-5.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
